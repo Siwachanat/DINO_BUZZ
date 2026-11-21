@@ -11,9 +11,7 @@
 ![CAD](https://img.shields.io/badge/CAD-STEP%20AP214-white?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-concept-ECB852?style=for-the-badge)
 
-<img src="media/dino-buzz-hero.jpg" alt="DINO-BUZZ starter bot render" width="100%">
 
-▶️ **[Watch the reveal video]([media/DINO-BUZZ_Reveal.mp4](https://youtu.be/pR-p69bkZ9Q?si=Wy2_R5tVTPRtl-8e))**
 
 <!-- Tip: to get an inline player on GitHub, edit this README in the browser and drag the .mp4 into the editor,
      or upload the video to YouTube and replace the link above. -->
