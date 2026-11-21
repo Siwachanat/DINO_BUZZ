@@ -13,7 +13,7 @@
 
 <img src="media/dino-buzz-hero.jpg" alt="DINO-BUZZ starter bot render" width="100%">
 
-▶️ **[Watch the reveal video](media/DINO-BUZZ_Reveal.mp4)**
+▶️ **[Watch the reveal video]([media/DINO-BUZZ_Reveal.mp4](https://youtu.be/pR-p69bkZ9Q?si=Wy2_R5tVTPRtl-8e))**
 
 <!-- Tip: to get an inline player on GitHub, edit this README in the browser and drag the .mp4 into the editor,
      or upload the video to YouTube and replace the link above. -->
